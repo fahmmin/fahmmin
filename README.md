@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fahmin Md and I'm a software developer from IIITNR</h2>
+<h2 align="left">Hi 👋! My name is Fahmin Mohammed and I'm a software developer from IIITNR</h2>
 
 ###
 
