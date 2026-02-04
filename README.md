@@ -59,15 +59,3 @@
 - **Email:** kkfahmin@gmail.com
 
 *Open to collaboration on Web3, DeFi/DeFAI, and AI-native systems.*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmmin&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmmin&theme=default&hide_border=true" alt="Streak" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmmin&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
