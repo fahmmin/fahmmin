@@ -2,7 +2,7 @@
 
 **Web3 × AI Builder** · Building at the intersection of decentralized systems and agentic AI.
 
-[![Twitter](https://img.shields.io/badge/X-@fahmin__md-0A0A0A?style=flat&logo=x)](https://x.com/fahmin_md)
+[![Twitter](https://img.shields.io/badge/X-@fahmindot-0A0A0A?style=flat&logo=x)](https://x.com/fahmindot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fahminmohammed-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahminmohammed)
 [![Medium](https://img.shields.io/badge/Medium-@fahmindot-000000?style=flat&logo=medium)](https://medium.com/@fahmindot)
 
